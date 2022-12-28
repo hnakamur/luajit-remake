@@ -1,11 +1,6 @@
 #!/bin/bash
 TASKSET_PIN_CPU_CORE=4
 
-if [ ! -f "luajitr" ]; then
-	echo "[ERROR] Benchmark executable 'luajitr' not found! Did you run the build?"
-	exit
-fi
-
 if [ -z "$(./luajitr -v 2>&1 | grep 'release build')" ]; then 
 	echo "[ERROR] Benchmark executable 'luajitr' is not built in release mode!"
 	echo "[ERROR] You should only run benchmark using a release build."
@@ -46,11 +41,11 @@ run_bench() {
 	echo "Benchmark: $@"
 	FILE_PATH="luabench/$1"
 	shift
-	run_bench_once ./luajitr $FILE_PATH $@
-	run_bench_once ./luajitr $FILE_PATH $@
-	run_bench_once ./luajitr $FILE_PATH $@
-	run_bench_once ./luajitr $FILE_PATH $@
-	run_bench_once ./luajitr $FILE_PATH $@
+	run_bench_once luajit $FILE_PATH $@
+	run_bench_once luajit $FILE_PATH $@
+	run_bench_once luajit $FILE_PATH $@
+	run_bench_once luajit $FILE_PATH $@
+	run_bench_once luajit $FILE_PATH $@
 }
 
 echo -n > benchmark.log

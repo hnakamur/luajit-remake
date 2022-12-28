@@ -1,0 +1,204 @@
+### array3d.lua
+0m2.464s
+0m2.463s
+0m2.471s
+0m2.624s
+0m2.469s
+### binary-trees-num.lua
+0m2.384s
+0m2.397s
+0m2.398s
+0m2.391s
+0m2.393s
+### binary-trees-name.lua
+0m0.685s
+0m0.685s
+0m0.690s
+0m0.680s
+0m0.683s
+### chameneos.lua
+0m2.078s
+0m2.084s
+0m2.091s
+0m2.092s
+0m2.093s
+### coroutine-ring.lua
+0m0.934s
+0m0.933s
+0m0.934s
+0m0.939s
+0m0.934s
+### fannkuch.lua
+0m11.601s
+0m11.614s
+0m11.633s
+0m11.617s
+0m11.610s
+### fasta.lua
+0m2.000s
+0m1.998s
+0m1.997s
+0m2.002s
+0m1.995s
+### fixpoint-fact.lua
+0m0.262s
+0m0.261s
+0m0.262s
+0m0.262s
+0m0.263s
+### heapsort.lua
+0m2.626s
+0m2.615s
+0m2.639s
+0m2.636s
+0m2.612s
+### k-nucleotide.lua
+0m14.730s
+0m14.577s
+0m14.456s
+0m14.505s
+0m14.514s
+### life.lua
+0m0.563s
+0m0.561s
+0m0.566s
+0m0.559s
+0m0.557s
+### linear-sieve.lua
+0m1.495s
+0m1.501s
+0m1.494s
+0m1.492s
+0m1.495s
+### mandelbrot.lua
+0m2.675s
+0m2.682s
+0m2.679s
+0m2.675s
+0m2.677s
+### mandel-metatable.lua
+0m0.564s
+0m0.568s
+0m0.566s
+0m0.565s
+0m0.566s
+### nbody.lua
+0m4.121s
+0m4.118s
+0m4.133s
+0m4.137s
+0m4.120s
+### nsieve.lua
+0m3.630s
+0m3.612s
+0m3.639s
+0m3.607s
+0m3.583s
+### partialsums.lua
+0m2.984s
+0m3.047s
+0m3.006s
+0m2.999s
+0m2.986s
+### pidigits-nogmp.lua
+0m6.106s
+0m6.118s
+0m6.103s
+0m6.114s
+0m6.141s
+### qt.lua
+0m5.042s
+0m5.046s
+0m5.050s
+0m5.074s
+0m5.048s
+### quadtree-2.lua
+0m4.304s
+0m4.342s
+0m4.321s
+0m4.310s
+0m4.347s
+### queen.lua
+0m0.875s
+0m0.864s
+0m0.864s
+0m0.855s
+0m0.861s
+### ray.lua
+0m4.908s
+0m4.907s
+0m4.906s
+0m4.912s
+0m4.910s
+### ray-prop.lua
+0m4.871s
+0m4.885s
+0m4.873s
+0m4.885s
+0m4.871s
+### recursive-fib-uv.lua
+0m3.751s
+0m3.734s
+0m3.748s
+0m3.743s
+0m3.759s
+### recursive-fib-gv.lua
+0m2.674s
+0m2.673s
+0m2.685s
+0m2.675s
+0m2.680s
+### revcomp.lua
+0m0.874s
+0m0.874s
+0m0.873s
+0m0.885s
+0m0.874s
+### scimark-fft.lua
+0m0.967s
+0m0.962s
+0m0.967s
+0m0.973s
+0m0.978s
+### scimark-lu.lua
+0m1.009s
+0m1.024s
+0m1.007s
+0m1.020s
+0m1.020s
+### scimark-sor.lua
+0m0.619s
+0m0.618s
+0m0.627s
+0m0.620s
+0m0.623s
+### scimark-sparse.lua
+0m0.916s
+0m0.902s
+0m0.931s
+0m0.913s
+0m0.906s
+### series.lua
+0m0.407s
+0m0.407s
+0m0.407s
+0m0.409s
+0m0.413s
+### spectral-norm.lua
+0m3.863s
+0m3.863s
+0m3.848s
+0m3.855s
+0m3.855s
+### table-sort.lua
+0m1.043s
+0m1.041s
+0m1.045s
+0m1.043s
+0m1.045s
+### table-sort-cmp.lua
+0m1.425s
+0m1.424s
+0m1.427s
+0m1.421s
+0m1.422s
