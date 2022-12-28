@@ -1,0 +1,352 @@
+### array3d.lua
+0m0.113s
+0m0.112s
+0m0.112s
+0m0.110s
+0m0.105s
+0m0.112s
+0m0.113s
+### binary-trees-num.lua
+0m1.150s
+0m1.131s
+0m1.106s
+0m1.084s
+0m1.086s
+0m1.070s
+0m1.072s
+### binary-trees-name.lua
+0m0.807s
+0m0.694s
+0m0.740s
+0m0.776s
+0m0.804s
+0m0.711s
+0m0.811s
+### bounce.lua
+0m0.112s
+0m0.112s
+0m0.111s
+0m0.110s
+0m0.111s
+0m0.110s
+0m0.111s
+### cd.lua
+0m0.967s
+0m0.996s
+0m0.974s
+0m0.991s
+0m0.973s
+0m0.986s
+0m0.976s
+### chameneos.lua
+0m1.269s
+0m1.268s
+0m1.268s
+0m1.261s
+0m1.261s
+0m1.280s
+0m1.269s
+### coroutine-ring.lua
+0m0.491s
+0m0.546s
+0m0.546s
+0m0.533s
+0m0.550s
+0m0.528s
+0m0.551s
+### deltablue.lua
+0m0.665s
+0m0.651s
+0m0.702s
+0m0.641s
+0m0.673s
+0m0.576s
+0m0.630s
+### fannkuch.lua
+0m2.425s
+0m2.423s
+0m2.425s
+0m2.425s
+0m2.425s
+0m2.513s
+0m2.424s
+### fasta.lua
+0m0.713s
+0m0.717s
+0m0.712s
+0m0.714s
+0m0.713s
+0m0.713s
+0m0.713s
+### fixpoint-fact.lua
+0m0.455s
+0m0.451s
+0m0.458s
+0m0.459s
+0m0.454s
+0m0.458s
+0m0.445s
+### havlak.lua
+0m1.694s
+0m1.630s
+0m1.798s
+0m1.664s
+0m1.668s
+0m1.706s
+0m1.620s
+### heapsort.lua
+0m0.595s
+0m0.601s
+0m0.582s
+0m1.336s
+0m0.586s
+0m1.337s
+0m0.597s
+### json.lua
+0m0.574s
+0m0.569s
+0m0.543s
+0m0.580s
+0m0.558s
+0m0.571s
+0m0.595s
+### k-nucleotide.lua
+0m1.600s
+0m1.647s
+0m1.542s
+0m1.514s
+0m1.600s
+0m1.581s
+0m1.539s
+### life.lua
+0m0.185s
+0m0.187s
+0m0.188s
+0m0.188s
+0m0.187s
+0m0.188s
+0m0.188s
+### linear-sieve.lua
+0m0.263s
+0m0.263s
+0m0.254s
+0m0.262s
+0m0.263s
+0m0.263s
+0m0.263s
+### list.lua
+0m0.394s
+0m0.395s
+0m0.413s
+0m0.412s
+0m0.394s
+0m0.393s
+0m0.395s
+### mandelbrot.lua
+0m0.397s
+0m0.390s
+0m0.390s
+0m0.397s
+0m0.390s
+0m0.391s
+0m0.398s
+### mandel-metatable.lua
+0m0.065s
+0m0.065s
+0m0.063s
+0m0.065s
+0m0.064s
+0m0.064s
+0m0.066s
+### nbody.lua
+0m0.436s
+0m0.436s
+0m0.438s
+0m0.436s
+0m0.437s
+0m0.436s
+0m0.436s
+### nsieve.lua
+0m1.090s
+0m1.097s
+0m1.100s
+0m1.098s
+0m1.091s
+0m1.089s
+0m1.082s
+### partialsums.lua
+0m0.520s
+0m0.520s
+0m0.519s
+0m0.520s
+0m0.523s
+0m0.520s
+0m0.520s
+### permute.lua
+0m1.418s
+0m1.432s
+0m0.127s
+0m1.416s
+0m0.130s
+0m1.387s
+0m0.119s
+### pidigits-nogmp.lua
+0m1.786s
+0m1.785s
+0m1.786s
+0m1.789s
+0m1.786s
+0m1.791s
+0m1.787s
+### qt.lua
+0m1.873s
+0m1.773s
+0m1.807s
+0m1.877s
+0m1.772s
+0m1.792s
+0m1.895s
+### quadtree-2.lua
+0m2.559s
+0m2.519s
+0m2.540s
+0m2.498s
+0m2.582s
+0m2.573s
+0m2.550s
+### queen.lua
+0m0.199s
+0m0.197s
+0m0.198s
+0m0.197s
+0m0.198s
+0m0.197s
+0m0.197s
+### ray.lua
+0m0.630s
+0m0.636s
+0m0.635s
+0m0.627s
+0m0.634s
+0m0.641s
+0m0.628s
+### ray-prop.lua
+0m0.804s
+0m0.793s
+0m0.789s
+0m0.795s
+0m0.785s
+0m0.779s
+0m0.770s
+### recursive-fib-uv.lua
+0m0.648s
+0m0.529s
+0m0.659s
+0m0.541s
+0m0.661s
+0m0.665s
+0m0.533s
+### recursive-fib-gv.lua
+0m0.577s
+0m0.577s
+0m0.567s
+0m0.590s
+0m0.569s
+0m0.570s
+0m0.577s
+### revcomp.lua
+0m0.361s
+0m0.372s
+0m0.354s
+0m0.370s
+0m0.373s
+0m0.358s
+0m0.383s
+### richard.lua
+0m0.338s
+0m0.329s
+0m0.313s
+0m0.327s
+0m0.327s
+0m0.338s
+0m0.314s
+### scimark-fft.lua
+0m0.108s
+0m0.109s
+0m0.108s
+0m0.108s
+0m0.108s
+0m0.108s
+0m0.107s
+### scimark-lu.lua
+0m0.080s
+0m0.080s
+0m0.080s
+0m0.080s
+0m0.080s
+0m0.080s
+0m0.080s
+### scimark-sor.lua
+0m0.095s
+0m0.095s
+0m0.096s
+0m0.095s
+0m0.096s
+0m0.095s
+0m0.096s
+### scimark-sparse.lua
+0m0.208s
+0m0.209s
+0m0.201s
+0m0.208s
+0m0.208s
+0m0.208s
+0m0.208s
+### series.lua
+0m0.137s
+0m0.138s
+0m0.138s
+0m0.138s
+0m0.138s
+0m0.138s
+0m0.138s
+### spectral-norm.lua
+0m0.150s
+0m0.150s
+0m0.150s
+0m0.150s
+0m0.150s
+0m0.150s
+0m0.150s
+### storage.lua
+0m0.748s
+0m0.742s
+0m0.734s
+0m0.658s
+0m0.728s
+0m0.708s
+0m0.759s
+### table-sort.lua
+0m1.397s
+0m1.393s
+0m1.391s
+0m1.392s
+0m1.392s
+0m1.393s
+0m1.395s
+### table-sort-cmp.lua
+0m0.657s
+0m0.660s
+0m0.661s
+0m0.661s
+0m0.661s
+0m0.667s
+0m0.660s
+### towers.lua
+0m0.209s
+0m0.209s
+0m0.208s
+0m0.209s
+0m0.209s
+0m0.207s
+0m0.208s
